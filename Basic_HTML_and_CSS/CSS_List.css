@@ -1,0 +1,12 @@
+ol {
+	list-style-type: upper-roman;
+	background-color: black;
+	color: white; 
+}
+ol:hover {
+		background-color: yellow;
+		color: black;
+}
+ul {
+		list-style-type: square
+}
